@@ -12,7 +12,6 @@
 <p align="center">
   <a href="https://www.bisarhasan.com">Website</a> ·
   <a href="https://www.linkedin.com/in/bisarhasan">LinkedIn</a> ·
-  <a href="https://huggingface.co/bisarhasan">Hugging Face</a> ·
   <a href="mailto:bisar1000@gmail.com">Email</a>
 </p>
 
@@ -59,7 +58,6 @@ A teaching assistant that answers students strictly from their own textbooks —
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-222?style=flat-square)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 **ML &amp; Deep Learning**
 
@@ -98,7 +96,6 @@ A teaching assistant that answers students strictly from their own textbooks —
 <p align="center">
   <a href="https://www.bisarhasan.com"><img src="https://img.shields.io/badge/Website-bisarhasan.com-111?style=flat-square&logo=googlechrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/bisarhasan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://huggingface.co/bisarhasan"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"></a>
   <a href="https://x.com/bisarulhasan"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"></a>
   <a href="mailto:bisar1000@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
