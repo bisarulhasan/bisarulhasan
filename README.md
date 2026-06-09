@@ -1,7 +1,9 @@
 <h1 align="center">Bisar Ul Hasan</h1>
 
 <p align="center">
-  <b>AI Engineer</b> — I build agentic and generative AI systems and ship them to production.
+  <a href="https://www.bisarhasan.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=640&lines=AI+Engineer;Agentic+and+Generative+AI%2C+in+production;RAG+%C2%B7+Multi-Agent+%C2%B7+LLM+Evaluation;Founding+engineer+of+a+speech-AI+startup+(3%E2%86%9252)" alt="Bisar Ul Hasan — AI Engineer" />
+  </a>
   <br>
   <sub>Sydney, Australia · 6+ years across the AI &amp; data stack</sub>
 </p>
@@ -74,6 +76,14 @@ A teaching assistant that answers students strictly from their own textbooks —
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+## 🐍 Contribution activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bisarulhasan/bisarulhasan/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bisarulhasan/bisarulhasan/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/bisarulhasan/bisarulhasan/output/github-snake.svg" />
+</picture>
 
 ---
 
