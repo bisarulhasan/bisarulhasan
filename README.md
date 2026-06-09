@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.bisarhasan.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=640&lines=AI+Engineer;Agentic+and+Generative+AI%2C+in+production;RAG+%C2%B7+Multi-Agent+%C2%B7+LLM+Evaluation;Founding+engineer+of+a+speech-AI+startup+(3%E2%86%9252)" alt="Bisar Ul Hasan — AI Engineer" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=AI+Engineer;Agentic+and+Generative+AI;RAG+%C2%B7+Multi-Agent+%C2%B7+LLM+Evaluation;Founding+engineer+of+a+speech-AI+startup" alt="Bisar Ul Hasan — AI Engineer" />
   </a>
   <br>
   <sub>Sydney, Australia · 6+ years across the AI &amp; data stack</sub>
@@ -91,6 +91,6 @@ A teaching assistant that answers students strictly from their own textbooks —
   <a href="https://www.bisarhasan.com"><img src="https://img.shields.io/badge/Website-bisarhasan.com-111?style=flat-square&logo=googlechrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/bisarhasan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="https://huggingface.co/bisarhasan"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"></a>
-  <a href="https://twitter.com/hasan_bisar"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"></a>
+  <a href="https://x.com/bisarulhasan"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"></a>
   <a href="mailto:bisar1000@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
