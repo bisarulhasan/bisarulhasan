@@ -39,6 +39,12 @@ A teaching assistant that answers students strictly from their own textbooks —
 >
 > Next.js · FastAPI · Qdrant · FastEmbed · Cohere · OpenRouter · RAGAS · GitHub Actions
 
+## 📂 Research &amp; Academic Projects
+
+- **[State-of-the-Art TTS &amp; Voice-Cloning Attack Detection](https://www.linkedin.com/in/bisarhasan/details/projects/)** — surveyed state-of-the-art text-to-speech technologies and used automated speech assessment to detect voice-cloning (spoofing) attacks.
+- **[Bayesian Logistic Regression &amp; Multivariate Analysis — Diabetes Prediction](https://www.linkedin.com/in/bisarhasan/details/projects/)** — modelled diabetes risk using Bayesian logistic regression and multivariate statistical analysis.
+- **[Knowledge Graphs to Analyse a Twitter Dataset](https://www.linkedin.com/in/bisarhasan/details/projects/)** — built knowledge graphs over a large Twitter dataset using big-data technologies.
+
 ## 🛠️ Tech I work with
 
 **Languages**
@@ -73,6 +79,7 @@ A teaching assistant that answers students strictly from their own textbooks —
 **Deployment &amp; MLOps**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
