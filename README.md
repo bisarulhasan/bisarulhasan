@@ -17,7 +17,7 @@
 
 ---
 
-I started as a founding engineer at a 3-person speech-AI startup that scaled to 52 people, where I led the dataset and TTS-training pipelines. Today I design and ship LLM-powered RAG and multi-agent systems — the kind that run in production behind evaluation gates, not demos that die in a notebook.
+I started as a founding engineer at a 3-person speech-AI startup that scaled to 52 people, where I led the dataset and TTS-training pipelines. Today I design and ship LLM-powered RAG and multi-agent systems.
 
 - 🔭 **Now:** building context-aware automation and GenAI applications, and driving AI adoption inside a school.
 - 🧠 **Focus:** RAG pipelines · agentic workflows · tool use / MCP · LLM evaluation &amp; observability.
