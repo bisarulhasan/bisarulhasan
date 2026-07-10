@@ -42,6 +42,12 @@ Production and client work in private and company repos, described at a high lev
 - **PlotKhata** — multi-tenant housing-society management SaaS, shipped live. Shared-schema multi-tenancy with row-level security, an immutable audit log, segregation of duties, and a buyer portal. Postgres on Neon, Next.js on Vercel.
 - **Model-alignment pipelines** — two pipelines built with supervised fine-tuning and Direct Preference Optimization (DPO) to align model outputs to preferred responses.
 
+## Research &amp; academic projects
+
+- **State-of-the-Art TTS &amp; Voice-Cloning Attack Detection** — a literature review of modern text-to-speech and voice-cloning technologies and the automated methods for detecting synthetic-speech (deepfake) attacks: MOS / vMOS quality assessment, higher-order spectral analysis, and vocal-tract reconstruction. Macquarie University, COMP 8851. **[Read the report (PDF) →](https://github.com/bisarulhasan/bisarulhasan/blob/main/research/tts-voice-cloning-attack-detection.pdf)**
+- **[Bayesian Logistic Regression &amp; Multivariate Analysis — Diabetes Prediction](https://www.linkedin.com/in/bisarhasan/details/projects/)** — modelled diabetes risk using Bayesian logistic regression and multivariate statistical analysis.
+- **[Knowledge Graphs to Analyse a Twitter Dataset](https://www.linkedin.com/in/bisarhasan/details/projects/)** — built knowledge graphs over a large Twitter dataset using big-data technologies.
+
 ## Tech I work with
 
 **Languages**
