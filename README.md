@@ -1,12 +1,10 @@
-<!-- Profile README — github.com/bisarulhasan -->
+<!-- Profile README: github.com/bisarulhasan -->
 <h1 align="center">Bisar Ul Hasan</h1>
 
 <p align="center">
-  <a href="https://www.bisarhasan.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=AI+Engineer;Agentic+and+Generative+AI;RAG+%C2%B7+Multi-Agent+%C2%B7+LLM+Evaluation;Founding+engineer+of+a+speech-AI+startup" alt="Bisar Ul Hasan — AI Engineer" />
-  </a>
+  <strong>AI Engineer · RAG, multi-agent systems and LLM evaluation · Sydney</strong>
   <br>
-  <sub>Sydney, Australia · 6+ years across the AI &amp; data stack</sub>
+  <sub>6+ years across the AI and data stack</sub>
 </p>
 
 <p align="center">
@@ -17,17 +15,16 @@
 
 ---
 
-I started as a founding engineer at a 3-person speech-AI startup that scaled to 52 people, where I led the dataset and TTS-training pipelines. Today I design and ship LLM-powered RAG and multi-agent systems.
+I started as a founding engineer at a 3-person speech-AI startup that scaled to 52 people, where I led the dataset and TTS-training pipelines. Today I design and ship LLM-powered RAG and multi-agent systems. Most of my work lives in private and company repos, so Noor below is the public, fully documented reference for how I build.
 
-- 🔭 **Now:** building context-aware automation and GenAI applications, and driving AI adoption inside a school.
-- 🧠 **Focus:** RAG pipelines · agentic workflows · tool use / MCP · LLM evaluation &amp; observability.
-- 🌐 **More:** case studies and deployed work at [bisarhasan.com](https://www.bisarhasan.com).
+- **Now:** building context-aware automation and GenAI applications, and driving AI adoption inside a school.
+- **Focus:** RAG pipelines · agentic workflows · tool use / MCP · LLM evaluation and observability.
 
-## 🤖 Featured project
+## Featured project
 
 ### [Noor — Production-Grade RAG Assistant](https://github.com/bisarulhasan/teaching-assistant-bot) &nbsp;·&nbsp; [Live demo →](https://wgs-noor.vercel.app)
 
-A teaching assistant that answers students strictly from their own textbooks — so every answer is grounded and citable.
+A teaching assistant that answers students strictly from their own textbooks, so every answer is grounded and citable.
 
 - **Hybrid retrieval** — BM25 + dense vectors fused with Reciprocal Rank Fusion, then **Cohere cross-encoder reranking**.
 - **Two-stage citation enforcement** — declines to answer when the context doesn't support a grounded response.
@@ -38,58 +35,38 @@ A teaching assistant that answers students strictly from their own textbooks —
 >
 > Next.js · FastAPI · Qdrant · FastEmbed · Cohere · OpenRouter · RAGAS · GitHub Actions
 
-## 📂 Research &amp; Academic Projects
+## Selected work
 
-- **[State-of-the-Art TTS &amp; Voice-Cloning Attack Detection](https://www.linkedin.com/in/bisarhasan/details/projects/)** — surveyed state-of-the-art text-to-speech technologies and used automated speech assessment to detect voice-cloning (spoofing) attacks.
-- **[Bayesian Logistic Regression &amp; Multivariate Analysis — Diabetes Prediction](https://www.linkedin.com/in/bisarhasan/details/projects/)** — modelled diabetes risk using Bayesian logistic regression and multivariate statistical analysis.
-- **[Knowledge Graphs to Analyse a Twitter Dataset](https://www.linkedin.com/in/bisarhasan/details/projects/)** — built knowledge graphs over a large Twitter dataset using big-data technologies.
+Production and client work in private and company repos, described at a high level.
 
-## 🛠️ Tech I work with
+- **PlotKhata** — multi-tenant housing-society management SaaS, shipped live. Shared-schema multi-tenancy with row-level security, an immutable audit log, segregation of duties, and a buyer portal. Postgres on Neon, Next.js on Vercel.
+- **Model-alignment pipelines** — two pipelines built with supervised fine-tuning and Direct Preference Optimization (DPO) to align model outputs to preferred responses.
+
+## Tech I work with
 
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-**GenAI &amp; Agentic** — RAG · Agentic Workflows · Tool Use / Function Calling · MCP · Structured Outputs · LLM Fine-Tuning · Prompt &amp; Context Engineering
+**GenAI &amp; Agentic** — RAG · Agentic Workflows · Tool Use / Function Calling · MCP · Structured Outputs · LLM Fine-Tuning · Preference Alignment (DPO) · LLM Evaluation · Prompt &amp; Context Engineering
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-222?style=flat-square)
-
-**ML &amp; Deep Learning**
-
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 **Retrieval &amp; Backend**
 
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
-![Weaviate](https://img.shields.io/badge/Weaviate-3B82F6?style=flat-square)
-![Chroma](https://img.shields.io/badge/Chroma-FF6B6B?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 **Deployment &amp; MLOps**
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-
-## 🐍 Contribution activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bisarulhasan/bisarulhasan/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bisarulhasan/bisarulhasan/output/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/bisarulhasan/bisarulhasan/output/github-snake.svg" />
-</picture>
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
