@@ -2,7 +2,7 @@
 <h1 align="center">Bisar Ul Hasan</h1>
 
 <p align="center">
-  <strong>AI Engineer · RAG, multi-agent systems and LLM evaluation · Sydney</strong>
+  <strong>Agentic AI · AI Engineer · LLM Ops</strong>
   <br>
   <sub>6+ years across the AI and data stack</sub>
 </p>
