@@ -1,1 +1,5 @@
 .DS_Store
+
+# HQ workspace files (local only, never publish)
+About Me/
+CLAUDE.md
